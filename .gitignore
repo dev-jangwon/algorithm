@@ -1,5 +1,6 @@
-#algorithm repository gitignore#
-################################
+# Algorithm repository gitignore #
+##################################
+
 # Sources #
 main.c
 *.o
