@@ -1,0 +1,7 @@
+# algorithm repository gitignore#
+#################################
+# Source #
+main.c
+*.o
+# Directories
+pdf/
