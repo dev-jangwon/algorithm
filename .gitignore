@@ -1,7 +1,7 @@
-# algorithm repository gitignore#
-#################################
-# Source #
+#algorithm repository gitignore#
+################################
+# Sources #
 main.c
 *.o
-# Directories
+# Directories #
 pdf/
