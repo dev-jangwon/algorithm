@@ -3,7 +3,10 @@
 
 # Sources #
 main.c
+main.cpp
+main
 *.o
+
 # Directories #
 pdf/
 
