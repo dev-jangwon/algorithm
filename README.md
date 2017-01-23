@@ -24,3 +24,18 @@
 * 10821 [정수의 개수](https://www.acmicpc.net/problem/10821)
 
 * 1152 [단어의 개수](https://www.acmicpc.net/problem/1152)
+
+#### 20170123
+* 10828 [Stack](https://www.acmicpc.net/problem/10828)
+
+* 12845 [Queue](https://www.acmicpc.net/problem/10845)
+
+* 11279 [최대 힙](https://www.acmicpc.net/problem/11279)
+
+* 1076 [저항](https://www.acmicpc.net/problem/1076)
+
+* 12813 [이진수 연산](https://www.acmicpc.net/problem/12813)
+
+* 1158 [조세퍼스 문제](https://www.acmicpc.net/problem/1158)
+
+#### 20170124
