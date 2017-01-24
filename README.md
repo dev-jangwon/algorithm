@@ -52,3 +52,5 @@
 * 10818 [최소, 최대](https://www.acmicpc.net/problem/10818)
 
 * 10819 [차이를 최대로](https://www.acmicpc.net/problem/10819)
+
+* 9012 [괄호](https://www.acmicpc.net/problem/9012)
