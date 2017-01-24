@@ -39,3 +39,16 @@
 * 1158 [조세퍼스 문제](https://www.acmicpc.net/problem/1158)
 
 #### 20170124
+* 10807 [개수 세기](https://www.acmicpc.net/problem/10807)
+
+* 2750 [수 정렬하기](https://www.acmicpc.net/problem/2750)
+
+* 11650 [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+
+* 10814 [나이순 정렬](https://www.acmicpc.net/problem/10814)
+
+* 10815 [숫자 카드](https://www.acmicpc.net/problem/10815)
+
+* 10818 [최소, 최대](https://www.acmicpc.net/problem/10818)
+
+* 10819 [차이를 최대로](https://www.acmicpc.net/problem/10819)
