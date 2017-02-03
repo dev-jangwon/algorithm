@@ -3,7 +3,7 @@
 #### 20170121
 * 11816 [8진수, 10진수, 16진수](https://www.acmicpc.net/problem/11816)
 
-* 10951 [a + b - 4](https://www.acmicpc.net/problem/10951)
+* 10951 [A+B-4](https://www.acmicpc.net/problem/10951)
 
 * 11718 [그대로 출력하기](https://www.acmicpc.net/problem/11718)
 
@@ -88,3 +88,7 @@
 #### 20170201
 
 * 1920 [수 찾기](https://www.acmicpc.net/problem/1920)
+
+#### 20170203
+
+* 10950 [A+B+3](https://www.acmicpc.net/problem/10950)
