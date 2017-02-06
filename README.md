@@ -98,3 +98,17 @@
 * 2609 [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 
 * 9613 [GCD 합](https://www.acmicpc.net/problem/9613)
+
+#### 20170206
+
+* 2745 [진법 변환](https://www.acmicpc.net/problem/2745)
+
+* 11005 [진법 변환2](https://www.acmicpc.net/problem/11005)
+
+* 1373 [2진수 8진수](https://www.acmicpc.net/problem/1373)
+
+* 1212 [8진수 2진수](https://www.acmicpc.net/problem/1212)
+
+* 2089 [-2진수](https://www.acmicpc.net/problem/2089)
+
+* 11576 [Base Conversion](https://www.acmicpc.net/problem/11576)
