@@ -112,3 +112,21 @@
 * 2089 [-2진수](https://www.acmicpc.net/problem/2089)
 
 * 11576 [Base Conversion](https://www.acmicpc.net/problem/11576)
+
+#### 20170207
+
+* 1934 [최소공배수](https://www.acmicpc.net/problem/1934)
+
+* 1978 [소수 찾기](https://www.acmicpc.net/problem/1978)
+
+* 1929 [소수 구하기](https://www.acmicpc.net/problem/1929)
+
+* 6588 [골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+
+* 11653 [소인수분해](https://www.acmicpc.net/problem/11653)
+
+* 10872 [팩토리얼](https://www.acmicpc.net/problem/10872)
+
+* 1676 [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+
+* 2004 [조합 0의 개수](https://www.acmicpc.net/problem/2004)
