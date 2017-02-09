@@ -138,3 +138,13 @@
 * 10825 [국영수](https://www.acmicpc.net/problem/10825)
 
 * 11004 [K번째 수](https://www.acmicpc.net/problem/11004)
+
+#### 20170209
+
+* 27751 [수 정렬하기2](https://www.acmicpc.net/problem/2751)
+
+* 10989 [수 정렬하기3](https://www.acmicpc.net/problem/10989)
+
+* 11651 [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)
+
+* 1377 [버블소트](https://www.acmicpc.net/problem/1377)
