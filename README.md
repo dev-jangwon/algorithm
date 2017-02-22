@@ -147,7 +147,7 @@
 #### 20170218
 * 11053 [가장 긴 증가 부분 수열](https://www.acmicpc.net//problem/11053)
 
-* 11053 [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+* 11054 [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 
 * 11055 [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
 
@@ -159,3 +159,12 @@
 * 1707 [이분 그래프](https://www.acmicpc.net/problem/1707)
 
 * 10451 [순열 사이클](https://www.acmicpc.net/problem/10451)
+
+#### 20170222
+* 10866 [덱](https://www.acmicpc.net/problem/10866)
+
+* 2346 [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+
+* 1912 [연속 합](https://www.acmicpc.net/problem/1912)
+
+* 1699 [제곱수의 합](https://www.acmicpc.net/problem/1699)
