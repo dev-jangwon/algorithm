@@ -182,3 +182,9 @@
 * 11725 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
 
 * 1967 [트리의 지름](https://www.acmicpc.net/problem/1967)
+
+* 11047 [동전 0](https://www.acmicpc.net/problem/11047)
+
+* 11399 [ATM](https://www.acmicpc.net/problem/11399)
+
+* 1541 [잃어버린 괄호](https://www.acmicpc.net/problem/1541)
