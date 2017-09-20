@@ -12,3 +12,6 @@ pdf/
 
 # Mac OS #
 .DS_Store
+
+# Goorm IDE #
+goorm.manifest
